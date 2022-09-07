@@ -1,4 +1,4 @@
-# Common-Web-Technologies
+# Common Web Technologies or Concepts
 <ul>
   <li>HTML & CSS</li>
   <li>Javascript</li>
